@@ -1,0 +1,186 @@
+{
+  "buttons": {
+    "signIn": "サインイン",
+    "start": "はじめる",
+    "createAccount": "アカウントを作成する",
+    "login": "ログイン",
+    "saveSettings": "設定を保存する",
+    "create": "新規作成"
+  },
+  "toast": {
+    "success": "{{value}}に成功しました"
+  },
+  "units": {
+    "years": "年",
+    "yen": "円",
+    "age": "歳",
+    "squareMeters": "平米"
+  },
+  "demo": {
+    "title": "日本語",
+    "introduction": "日本語です"
+  },
+  "mainNavBar": {
+    "version": "v1.0",
+    "home": "ホーム",
+    "dashboard": "ダッシュボード"
+  },
+  "landing": {
+    "hero": {
+      "title": {
+        "line1": "東京1Rで始める",
+        "line2": "ワンルーム投資のための",
+        "line3": "シミュレーション"
+      },
+      "body": "東京1Rシミュレータは、東京23区のワンルームマンション投資に特化したサイトです。",
+      "start": "はじめる"
+    }
+  },
+  "auth": {
+    "login": {
+      "welcomeBack": "こんにちは、おかえりなさい。",
+      "signIn": "ログインする",
+      "enterDetails": "詳細を入力してください",
+      "dontHaveAccount": "アカウントをお持ちでないですか？",
+      "getStarted": "はじめる",
+      "forgotPassword": "パスワードをお忘れですか？",
+      "rememberMe": "ID/パスワードを記憶する",
+      "login": "ログイン"
+    },
+    "register": {
+      "header": "東京１Rシミュレータで効果的に不動産を管理する。",
+      "alreadyHaveAccount": "すでにアカウントをお持ちですか？",
+      "login": "ログイン",
+      "getStartedAbsolutelyFree": "無料ではじめる。",
+      "enterDetails": "詳細を入力してください",
+      "byRegistering": "登録することで、私は",
+      "termsOfUse": "利用規約",
+      "and": "および",
+      "privacyPolicy": "プライバシーポリシー",
+      "iAgreeTo": "に同意します。"
+    },
+    "registerForm": {
+      "register": "登録する",
+      "firstName": "名",
+      "lastName": "姓",
+      "emailAddress": "メールアドレス",
+      "password": "パスワード"
+    }
+  },
+
+  "formik": {
+    "required": "必須項目です",
+    "emailMustBeValid": "有効なメールアドレスを入力してください",
+    "tooShort": "短すぎます",
+    "tooLong": "最大{{value}}文字までです"
+  },
+  "landingMinimal": {
+    "subtitle": "東京１R",
+    "title": "東京１Rシミュレータはワンルームの購入・売却のための新たなモノサシです。",
+    "card1": {
+      "title": "売却査定",
+      "description": "ワンルームマンションの「売却査定価格」を10秒で簡単シミュレーションをすることができます。"
+    },
+    "card2": {
+      "title": "購入査定",
+      "description": "ワンルームマンション投資の収支をシミュレーションすることができます。"
+    },
+    "card3": {
+      "title": "投資診断",
+      "description": "一問一答形式のクイズで投資診断を行うことができます。"
+    }
+  },
+  "property": {
+    "title": "物件名",
+    "builtAt": "建築年月",
+    "owner": {
+      "id": "ID",
+      "name": "名前",
+      "avatarUrl": "アバターURL"
+    },
+    "numberOfSquareMeters": "平米数",
+    "propertyPrice": "物件価格",
+    "initialPayment": "頭金",
+    "rentRevenue": "家賃収入",
+    "isRentRevenueGuaranteed": "家賃保証あり",
+    "rentCollectionServiceFee": "集金代行費",
+    "managementCost": "管理費",
+    "repairReserve": "修繕積立金",
+    "borrowingAmount": "借入金額",
+    "annualInterestRate": "年利",
+    "borrowingPeriodInYears": "借入年数",
+    "monthlyLoanPaymentAmount": "月々返済額",
+    "cover": "物件画像",
+    "description": "物件概要",
+    "body": "物件詳細",
+    "address": {
+      "postalCode": "郵便番号",
+      "principal": "都道府県",
+      "city": "市区町村",
+      "additionalInfo": "番地/マンション名など"
+    },
+    "detail": {
+      "rentChangeRate": "家賃変動率",
+      "sellingPriceChangeRate": "物件価格変動率",
+      "propertyPriceDropRate": "初年度物件価格下落率",
+      "vacancyRate": "空室率",
+      "propertyAcquisitionTax": "不動産取得税",
+      "otherPayments": "諸費用",
+      "propertyTax": "固定資産税",
+      "fireInsurance": "火災保険",
+      "bathroomDryer": "浴室乾燥機",
+      "airConditioner": "エアコン",
+      "boiler": "給湯器",
+      "wallpaperReplacement": "フローリング張り替え",
+      "floorReplacement": "クロス張り替え"
+    }
+  },
+  "dashboard": {
+    "title": "ダッシュボード",
+    "properties": {
+      "title": "みんなの物件"
+    },
+    "property": {
+      "title": "みんなの物件詳細"
+    },
+    "myProperties": {
+      "title": "所有物件"
+    },
+    "myProperty": {
+      "title": "所有物件詳細"
+    },
+    "newProperty": {
+      "title": "新規作成"
+    },
+    "analytics": {
+      "summary": {
+        "monthlyIncome": "月収入"
+      }
+    },
+    "settings": {
+      "title": "シミュレーション設定",
+      "general": {
+        "title": "基本情報",
+        "startDate": "開始日時",
+        "age": "年齢",
+        "simulationPeriodInYears": "期間"
+      },
+      "property": {
+        "title": "物件情報",
+        "propertyPrice": "物件価格",
+        "initialPayment": "頭金",
+        "isRentGuaranteed": "家賃保証あり",
+        "rentRevenue": "家賃収入",
+        "rentCollectionServiceFee": "集金代行費",
+        "managementCost": "管理費",
+        "repairReserve": "修繕積立金"
+      },
+      "loan": {
+        "title": "ローン支払い",
+        "borrowingAmount": "借入金額",
+        "annualInterestRate": "借入金利",
+        "borrowingPeriodInYears": "借入期間"
+      }
+    }
+  }
+}
